@@ -1,5 +1,7 @@
 {
   "name": "asthma",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
