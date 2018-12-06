@@ -1,3 +1,5 @@
+Abandoned this ionic starter after spending a few dozen hours trying to deploy it to a physical device without it 100% dying.  planning to delete this repo soon
+
 
 # AsthmaMobile
 App for tracking medical doses such as Ashtma. Using Ionic
